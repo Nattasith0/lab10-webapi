@@ -52,11 +52,29 @@
 
 ---
 
-📌 ไฟล์นี้จะกลายเป็นหน้าแรกของ GitHub Repo อัตโนมัติครับ  
-คุณจะใส่ screenshot ภายหลังได้ง่ายมาก (เพียงกดแก้ไขไฟล์ README ใน GitHub แล้วแทรกรูป)
+## Screenshot
+
+### phpMyAdmin (Products Table)
+![phpMyAdmin](images/phpmyadmin.png)
+
+### GET - Get all products
+![GetAllProducts](images/GetAllProducts.png)
+
+### POST - Add a new product
+![AddANewProduct](images/AddANewProduct.png)
+
+### GET - Get a single product
+![GetaSingleProduct](images/GetaSingleProduct.png)
+
+### PUT - Update a product
+![UpdateaProduct](images/UpdateaProduct.png)
+
+### DELETE - Delete a product
+![DeleteaProduct](images/DeleteaProduct.png)
+
 
 ---
 
-นายณัฐสิทธิ์ มะโนชัย
-67543210056-7
-
+## ผู้จัดทำ
+- ชื่อ: **นาณัฐสิทธิ์ มะโนชัย**  
+- รหัสนักศึกษา: **67543210056-7**
